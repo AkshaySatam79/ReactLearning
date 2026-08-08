@@ -1,0 +1,26 @@
+.headline {
+  color: pink;
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  width: 30px;
+  height: 30px;
+  margin: 20px;
+  align-items: center;
+  font-size: 30px;
+}
+
+h1 {
+  text-align: center;
+}
